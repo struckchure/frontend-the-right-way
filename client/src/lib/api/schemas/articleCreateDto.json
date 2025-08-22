@@ -1,0 +1,1 @@
+{"properties":{"title":{"type":"string","title":"Title"},"body":{"type":"string","title":"Body"}},"type":"object","required":["title","body"],"title":"ArticleCreateDto","x-readme-ref-name":"ArticleCreateDto"}

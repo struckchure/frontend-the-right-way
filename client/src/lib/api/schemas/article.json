@@ -1,0 +1,1 @@
+{"properties":{"id":{"type":"integer","title":"Id"},"title":{"type":"string","title":"Title"},"body":{"type":"string","title":"Body"}},"type":"object","required":["id","title","body"],"title":"Article","x-readme-ref-name":"Article"}
